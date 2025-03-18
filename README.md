@@ -1,7 +1,8 @@
-👋 Hi, I’m @Anittavinter  
-- 👀 I’m interested in web development, coding challenges, and exploring new technologies.  
-- 🌱 I’m currently learning HTML, CSS, and Git for building websites and collaborating on projects.  
-- 💞️ I’m looking to collaborate on front-end development projects,UI/UX and open-source contributions.  
-- 📫 How to reach me: You can connect with me on GitHub or mail (anittavinter@gmail.com)!  
-- 😄 Pronouns: [she/her]  
-- ⚡ Fun fact: I love coding and enjoy solving puzzles in my free time!  
+ Hi, I’m @Anittavinter
+
+ I’m interested in full-stack development, mobile app development, and solving real-world problems with technology.
+ I’m currently building projects with React Native, Node.js, Express, and MongoDB, and exploring cloud deployment.
+ I enjoy working on UI/UX, APIs, and backend integration to create seamless user experiences.
+ I’m open to collaborating on full-stack projects, mobile apps, and open-source contributions.
+ How to reach me: Connect with me on GitHub or email me at anittavinter@gmail.com!
+ Fun fact: I love coding, debugging, and exploring new tech stacks!  
